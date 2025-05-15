@@ -23,7 +23,7 @@ This device allows you to further push this process, giving the possibility to a
 
 ![tutorial1](https://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial1.png)
 
-![tutorial2](ihttps://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial2.png)
+![tutorial2](https://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial2.png)
 
 
 
