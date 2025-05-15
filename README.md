@@ -23,13 +23,26 @@ This device allows you to further push this process, giving the possibility to a
 
 ![tutorial1](https://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial1.png)
 
-![tutorial2](https://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial2.png)
+![tutorial2](ihttps://github.com/fCeriola/StopperJumper_M4L/blob/main/img/tutorial2.png)
 
 
+## Thanks for visiting this page!
 
+New simple but useful tools are on their way. Thanks for joining me and for sharing 
 
+About me in the music world... \
 
+As producer: \
+	![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) \
+_EP: [IZAYA - Roba da egocentrici Pt.1](https://open.spotify.com/intl-it/album/1sFp91RRp6JSIlauGSDOWg?si=5ZZ2xJCSRtWSM1C0KiOTzQ)_ \
+_Singolo: [Altrove - PANORAMA A METÀ STRADA](https://open.spotify.com/intl-it/track/4Hbn1ppbSAbQPy0CdGgdgA?si=373f382a179c4915)_ \
+_Singolo: [Altrove - L'Ignoto](https://open.spotify.com/intl-it/track/30f6AOeW91ISAn9mwh5BkD?si=17912a447cdd4186)_
 
+As an artist: \
+![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) \
+_EP: [Calcifer - Tape_1](https://soundcloud.com/calcifer-tapes/sets/tape_1?si=3324a098a95d48b1a9058fe78c46c5e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)_ \
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) \
+_Live Show: [Federico Ceriola - Infondo](https://www.youtube.com/watch?v=3-4HYrjWRxk&t=328s)_
 
-
-
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+_[Insta](https://www.instagram.com/federicoceriola/)_
