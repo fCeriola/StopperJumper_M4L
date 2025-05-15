@@ -28,10 +28,9 @@ This device allows you to further push this process, giving the possibility to a
 
 ## Thanks for visiting this page!
 
-New simple but useful tools are on their way. Thanks for joining me and for sharing 
+New simple but useful tools are on their way. Thanks for joining me and for sharing.
 
 About me in the music world... \
-
 As producer: \
 	![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) \
 _EP: [IZAYA - Roba da egocentrici Pt.1](https://open.spotify.com/intl-it/album/1sFp91RRp6JSIlauGSDOWg?si=5ZZ2xJCSRtWSM1C0KiOTzQ)_ \
